@@ -1,41 +1,34 @@
-# Hi there 👋, I'm Muhammad Hamza
+Hi there, I'm Muhammad Hamza
 
-🎓 **Computer Science Graduate (CGPA: 3.73)**  
-🤖 **AI & ML Enthusiast** | 📱 **Full Stack Flutter Developer** | ⚡ **FastAPI Backend Experience**
+Computer Science Graduate (CGPA: 3.73)
+AI Engineer | Machine Learning & Deep Learning Enthusiast | Python Developer
 
----
+About Me
 
-## 🚀 About Me  
-- Passionate about **Artificial Intelligence** and currently exploring **Generative AI**.  
-- Skilled in building **cross-platform mobile applications** using **Flutter & Dart**.  
-- Experienced in designing **robust backends with FastAPI and Python**.  
-- Always eager to learn, innovate, and solve real-world problems through technology.  
+I’m deeply passionate about Artificial Intelligence and its ability to create meaningful real-world solutions. My core focus lies in Machine Learning, Deep Learning, and Generative AI. I enjoy experimenting with models, optimizing performance, and deploying AI-powered systems that make a tangible impact.
 
----
+Before specializing in AI, I gained hands-on experience as a Full Stack Developer, building Flutter-based mobile applications and developing backend APIs with FastAPI. This combination of AI and full-stack expertise helps me design intelligent systems that are both scalable and user-focused.
 
-## 🛠️ Tech Stack  
-- **Languages:** Python, Dart, JavaScript  
-- **Frameworks & Tools:** Flutter, FastAPI, Git, REST APIs  
-- **Interests:** AI/ML, Generative AI, Full Stack Development  
+I’m always eager to explore new technologies, collaborate on innovative projects, and contribute to the growing field of AI.
 
----
+Technical Skills
 
-## 🌱 Current Focus  
-- Diving deeper into **Generative AI** and its real-world applications.  
-- Expanding my expertise in **scalable backend systems** and **AI-powered applications**.  
+Languages: Python, Dart, JavaScript, Java, 
+Frameworks & Tools: PyTorch, TensorFlow, FastAPI, Flutter, Git
+Domains of Interest: Machine Learning, Deep Learning, Generative AI, NLP, Computer Vision
 
----
+Current Focus
 
-## 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/muhammadhamzaai/)  
-- 🌐 GitHub: [muhammadhamza520](https://github.com/muhammadhamza520)  
+Building expertise in Generative AI and applied Deep Learning.
 
----
+Developing and deploying AI-driven applications with scalable backends.
 
-## 📊 GitHub Stats  
-![Hamza's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadhamza520&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhamza520&layout=compact&theme=radical)  
+Exploring model optimization, data pipelines, and real-world AI use cases.
 
----
+Connect with Me
 
-✨ *“Striving to bridge the gap between innovation and impact through AI and modern software solutions.”*  
+LinkedIn: linkedin.com/in/muhammadhamzaai
+
+GitHub: github.com/muhammadhamza520
+
+**“Driven by curiosity, guided by impact — I aim to turn data and algorithms into intelligent systems that solve real-world problems.”**
